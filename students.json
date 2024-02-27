@@ -1,0 +1,93 @@
+[
+    {
+      "name": "John Smith",
+      "age": 18,
+      "grade": "12th",
+      "major": "Computer Science"
+    },
+    {
+      "name": "Emily Johnson",
+      "age": 17,
+      "grade": "11th",
+      "major": "Biology"
+    },
+    {
+      "name": "Michael Williams",
+      "age": 16,
+      "grade": "10th",
+      "major": "Mathematics"
+    },
+    {
+      "name": "Sarah Brown",
+      "age": 15,
+      "grade": "9th",
+      "major": "English Literature"
+    },
+    {
+      "name": "David Jones",
+      "age": 18,
+      "grade": "12th",
+      "major": "History"
+    },
+    {
+      "name": "Jessica Davis",
+      "age": 17,
+      "grade": "11th",
+      "major": "Chemistry"
+    },
+    {
+      "name": "Daniel Wilson",
+      "age": 16,
+      "grade": "10th",
+      "major": "Physics"
+    },
+    {
+      "name": "Sophia Miller",
+      "age": 15,
+      "grade": "9th",
+      "major": "Art"
+    },
+    {
+      "name": "William Taylor",
+      "age": 18,
+      "grade": "12th",
+      "major": "Economics"
+    },
+    {
+      "name": "Olivia Anderson",
+      "age": 17,
+      "grade": "11th",
+      "major": "Political Science"
+    },
+    {
+      "name": "Matthew Martinez",
+      "age": 16,
+      "grade": "10th",
+      "major": "Sociology"
+    },
+    {
+      "name": "Ava Hernandez",
+      "age": 15,
+      "grade": "9th",
+      "major": "Psychology"
+    },
+    {
+      "name": "Ethan Lopez",
+      "age": 18,
+      "grade": "12th",
+      "major": "Business Administration"
+    },
+    {
+      "name": "Isabella Gonzalez",
+      "age": 17,
+      "grade": "11th",
+      "major": "Marketing"
+    },
+    {
+      "name": "James Perez",
+      "age": 16,
+      "grade": "10th",
+      "major": "Finance"
+    }
+  ]
+  
